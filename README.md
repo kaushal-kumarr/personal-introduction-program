@@ -20,9 +20,9 @@ python personal_intro.py
 
 ## Sample Output
 
-What is your name? Alex
-How old are you? 21
-What is your favorite hobby? Coding
+What is your name? Kaushal Kumar
+How old are you? 20
+What is your favorite hobby? Chess
 
-Welcome Alex!
-You are 21 years old and love Coding.
+Welcome Kaushal Kumar!
+You are 20 years old and love Chess.
